@@ -2,7 +2,7 @@
 import Image from "next/image";
 import React from "react";
 import auth_logo from "../../../../../public/images/auth_logo.svg";
-import Input from "@/_components/Form/Input";
+import Input from "@/components/Form/Input";
 
 const RecoveryEmail = () => {
   return (
